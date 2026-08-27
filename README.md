@@ -5,4 +5,4 @@ In week 2, this repo was used to demonstrate the following:
 - Editing the project
 - Pushing updates back to GitHub
 
-Now, in week 10, this repo will be repurposed to with an additional `ci.yml` file to demonstrate a simple GitHub Actions workflow.
+Now, in week 10, this repo will be repurposed by adding `ci.yml` to demonstrate a simple GitHub Actions workflow.
